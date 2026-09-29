@@ -1,0 +1,207 @@
+{
+  "domain": "batisteprism",
+  "niche": "Haute Batiste Couture & Prismatic Textile Atelier",
+  "design_concept": "Editorial Monolith & Asymmetric Showcase",
+  "archetype_id": "editorial_monolith",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "batisteprism_asset_43.jpg",
+      "size_kb": 154.43,
+      "md5": "90205a2827b6128e3c05bcb24b2245e7",
+      "description": "model on the runway on jakarta mode",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "batisteprism_asset_44.jpg",
+      "size_kb": 102.49,
+      "md5": "f584e34a100e3e5adcb0821264417256",
+      "description": "model on the runway on london modes",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "batisteprism_asset_45.jpg",
+      "size_kb": 62.3,
+      "md5": "8c84c2d40f3d33cef81ae533de8332d0",
+      "description": "nairobi fashion week",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "batisteprism_asset_46.jpg",
+      "size_kb": 89.93,
+      "md5": "c3c06b4efab20c2ef284adb6fa48492e",
+      "description": "ola rudnicka lacoste runway",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "batisteprism_asset_47.jpg",
+      "size_kb": 92.88,
+      "md5": "b67ccf0aa72eb4a7c6251991d7af2076",
+      "description": "paris fashion week july 28th attend",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "batisteprism_asset_48.jpg",
+      "size_kb": 77.76,
+      "md5": "30ab29fa927afc209996ffa673c44f1e",
+      "description": "priscilla huggins modeling chromat",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "batisteprism_asset_49.jpg",
+      "size_kb": 147.03,
+      "md5": "40ec8edb2374de5cc0b73339bcc00ce7",
+      "description": "rachael broussard style star attend",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "batisteprism_asset_50.jpg",
+      "size_kb": 89.53,
+      "md5": "25797c0fce549bb809136e36356b770d",
+      "description": "runway lg fashion week 6256103581",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "batisteprism_asset_51.jpg",
+      "size_kb": 153.8,
+      "md5": "c21bff8c851451cbc7762b386a04add0",
+      "description": "shravan gajam ragini khanna at indi",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "batisteprism_asset_52.jpg",
+      "size_kb": 120.36,
+      "md5": "392cba50274eb4e3a5b9593aebca83c4",
+      "description": "vawk by sunny fong fall winter 2010",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "batisteprism_asset_53.jpg",
+      "size_kb": 85.87,
+      "md5": "4cbf4f446248c03d49ab9b3dfe583123",
+      "description": "william rast fashion show for new y",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "batisteprism_asset_55.jpg",
+      "size_kb": 69.87,
+      "md5": "68b13ecab85c64384b24fb22a2d497af",
+      "description": "andreea diaconu at diane von f rste",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "batisteprism_asset_56.jpg",
+      "size_kb": 124.52,
+      "md5": "0aca150fb93c0702a40f44d132cefdf5",
+      "description": "blond runway model with a lovely sm",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "batisteprism_asset_57.jpg",
+      "size_kb": 354.02,
+      "md5": "61a226b2e73d84f335607c8895d617d4",
+      "description": "deal no deal 2008",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "batisteprism_asset_58.jpg",
+      "size_kb": 81.66,
+      "md5": "c60d3065ec890552c4663d7aa55442e2",
+      "description": "diana eng diana eng s fairytale fa",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "batisteprism_asset_59.jpg",
+      "size_kb": 179.11,
+      "md5": "3b1196a3a4bdb626c6e33ad0b7b54981",
+      "description": "diana eng fairytale fashion eyebea",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "batisteprism_asset_60.jpg",
+      "size_kb": 105.86,
+      "md5": "185b7d01f67ef13013bb3fd6b72fbe69",
+      "description": "diane von f rstenberg spring summer",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "batisteprism_asset_61.jpg",
+      "size_kb": 187.66,
+      "md5": "644b4bf178cd75b2283ee4e8cb5f29b5",
+      "description": "diane von f rstenberg spring summer",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "batisteprism_asset_62.jpg",
+      "size_kb": 108.12,
+      "md5": "24c7118a07626a772dee21c11865f7f8",
+      "description": "diane von f rstenberg spring summer",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "batisteprism_asset_63.jpg",
+      "size_kb": 115.0,
+      "md5": "8d53cc7b2d46ae64eff34d48bbf5c740",
+      "description": "diesel black gold fall winter 2010",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://batisteprism.com/sitemap.xml",
+    "robots": "https://batisteprism.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
